@@ -1,0 +1,9 @@
+.idea
+
+#kafka-basics
+kafka-basics/.mvn
+kafka-basics/HELP.md
+kafka-basics/kafka-basics.iml
+kafka-basics/mvnw
+kafka-basics/mvnw.cmd
+kafka-basics/target
