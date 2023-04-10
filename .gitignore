@@ -11,7 +11,7 @@ kafka-basics/target
 #kafka-producer-wikimedia
 kafka-producer-wikimedia/.mvn
 kafka-producer-wikimedia/HELP.md
-kafka-producer-wikimedia/kafka-basics.iml
+kafka-producer-wikimedia/kafka-producer-wikimedia.iml
 kafka-producer-wikimedia/mvnw
 kafka-producer-wikimedia/mvnw.cmd
 kafka-producer-wikimedia/target
