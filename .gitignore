@@ -23,3 +23,11 @@ kafka-consumer-opensearch/kafka-consumer-opensearch.iml
 kafka-consumer-opensearch/mvnw
 kafka-consumer-opensearch/mvnw.cmd
 kafka-consumer-opensearch/target
+
+#kafka-consumer-opensearch
+kafka-streams-wikimedia/.mvn
+kafka-streams-wikimedia/HELP.md
+kafka-streams-wikimedia/kafka-streams-wikimedia.iml
+kafka-streams-wikimedia/mvnw
+kafka-streams-wikimedia/mvnw.cmd
+kafka-streams-wikimedia/target
