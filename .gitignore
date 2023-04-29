@@ -15,3 +15,11 @@ kafka-producer-wikimedia/kafka-producer-wikimedia.iml
 kafka-producer-wikimedia/mvnw
 kafka-producer-wikimedia/mvnw.cmd
 kafka-producer-wikimedia/target
+
+#kafka-consumer-opensearch
+kafka-consumer-opensearch/.mvn
+kafka-consumer-opensearch/HELP.md
+kafka-consumer-opensearch/kafka-consumer-opensearch.iml
+kafka-consumer-opensearch/mvnw
+kafka-consumer-opensearch/mvnw.cmd
+kafka-consumer-opensearch/target
